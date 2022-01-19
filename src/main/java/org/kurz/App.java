@@ -1,7 +1,7 @@
 package org.kurz;
 
 /**
- * Ahoj svet!
+ * Hello word!
  *
  */
 public class App 
